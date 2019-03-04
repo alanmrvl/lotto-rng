@@ -5,3 +5,4 @@ authors = ["Alan Marvel <alan@mrvl.io>"]
 edition = "2018"
 
 [dependencies]
+rand_os = "0.1.2"
